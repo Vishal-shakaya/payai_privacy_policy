@@ -1,5 +1,7 @@
 
 
+
+
 Cancellation & Refund Policy
 
 Last updated on Dec 2nd 2022
@@ -19,6 +21,8 @@ feelsafe believes in helping its customers as far as possible, and has therefore
     In case of any Refunds approved by the feelsafe, it’ll take 3-5 days for the refund to be processed to the end customer.
 
 Detail : https://merchant.razorpay.com/policy/KmwmLJ3X4GRceR/refund
+
+Shipping And Dilevery Policy : https://merchant.razorpay.com/policy/KmwmLJ3X4GRceR/shipping
 
 **Privacy Policy**
 
